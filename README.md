@@ -36,6 +36,7 @@ Medical-Image-Classification-Using-Transfer-Learning-and-GradCAM/
 ├── my_image.jpg
 ├── requirements.txt
 └── README.md
+```
 
 ## Output Screenshots
 
