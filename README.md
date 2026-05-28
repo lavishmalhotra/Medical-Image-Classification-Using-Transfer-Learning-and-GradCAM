@@ -44,8 +44,8 @@ Medical-Image-Classification-Using-Transfer-Learning-and-GradCAM/
 ```
 ````md
 ## How to Run
-
-```bash
+- opening ```bash
+- closing ```  
 pip install -r requirements.txt
 python main.py
 ````
