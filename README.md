@@ -41,13 +41,14 @@ Medical-Image-Classification-Using-Transfer-Learning-and-GradCAM/
 
 ### Confusion Matrix
 
-markdown id="m8v2ra"
+
 ![Confusion Matrix](screenshots/confusion_matrix.png)
 
 
 ### Grad-CAM Visualization
 
-markdown id="p4x7lk"
+
 ![Grad-CAM Output](screenshots/gradcam_output.png)
+
 
 
