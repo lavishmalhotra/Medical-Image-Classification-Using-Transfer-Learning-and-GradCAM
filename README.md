@@ -24,6 +24,12 @@ Grad-CAM visualization is used to highlight the important regions in the X-ray i
 * Grad-CAM heatmap visualization
 * Confusion Matrix and Classification Report
 * Real-time image prediction support
+```md
+## Dataset
+
+Chest X-ray dataset used from Kaggle.
+```
+
 
 ## Project Structure
 
@@ -32,11 +38,23 @@ Medical-Image-Classification-Using-Transfer-Learning-and-GradCAM/
 │
 ├── dataset/
 ├── main.py
-├── model.h5
 ├── my_image.jpg
 ├── requirements.txt
 └── README.md
 ```
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python main.py
+
+```md
+## Model Performance
+
+* Training Accuracy: 95%
+* Validation Accuracy: 92%
+```
+
 
 ## Output Screenshots
 
