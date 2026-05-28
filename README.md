@@ -42,18 +42,22 @@ Medical-Image-Classification-Using-Transfer-Learning-and-GradCAM/
 ├── requirements.txt
 └── README.md
 ```
+````md
 ## How to Run
 
 ```bash
 pip install -r requirements.txt
 python main.py
+````
 
-```md
 ## Model Performance
 
 * Training Accuracy: 95%
 * Validation Accuracy: 92%
+
 ```
+```
+
 
 
 ## Output Screenshots
